@@ -1,6 +1,0 @@
-{
-  "name": "Contest Arena",
-  "description": "Competitive skill-contest gaming platform with 1-vs-1 matchmaking, server-validated scoring, rewards, leaderboards, and admin contest management.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
